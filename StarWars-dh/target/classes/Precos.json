@@ -1,0 +1,14 @@
+[
+  {
+    "location" : "Iguatemi",
+    "preco" : 1000
+  },
+  {
+    "location" : "BoaVista",
+    "preco" : 1100
+  },
+  {
+    "location" : "Campolim",
+    "preco" : 1200
+  }
+]
